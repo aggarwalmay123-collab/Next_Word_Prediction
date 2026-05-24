@@ -118,30 +118,6 @@ LSTM(128)
 Dense(10000, activation='softmax')
 ```
 
----
-
-## 🚀 Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/your-username/next-word-prediction.git
-cd next-word-prediction
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Run Streamlit Application
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## 💻 Usage
 
@@ -179,38 +155,3 @@ worrying
 - Deep Learning
 - Streamlit Deployment
 
----
-
-## 🔮 Future Improvements
-
-- Transformer-based architecture
-- GPT-style text generation
-- Larger datasets
-- Multi-language support
-- Cloud deployment
-- Improved prediction accuracy
-
----
-
-## 🎯 Applications
-
-- Text Auto-Completion
-- Smart Keyboards
-- Chatbots
-- Search Suggestions
-- Virtual Assistants
-- Content Generation
-
----
-
-## 👨‍💻 Author
-
-**Mayank**
-
-B.Tech Computer Science Engineering
-
----
-
-## ⭐ Support
-
-If you found this project useful, please give it a ⭐ on GitHub and share it with others!
